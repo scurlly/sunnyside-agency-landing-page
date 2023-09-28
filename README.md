@@ -26,9 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [https://scurlly.github.io/sunnyside-agency-landing-page/](https://scurlly.github.io/sunnyside-agency-landing-page/)
 
 ### Built with
 
@@ -42,7 +40,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/scurlly)
+- Frontend Mentor - [@scurlly](https://www.frontendmentor.io/profile/scurlly)
 
 
 
